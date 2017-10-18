@@ -1,19 +1,16 @@
 div {
-    display: block;
-    width: auto;
-    margin: 10px;
-    padding: 5px;
-    
-    
+    display: block; /*declarando el comportamiento*/
+    width: auto;    /*declarando el ancho, en este caso se establece en auto*/
+    height: 100px;
+    margin: 10px;   /*modificando el margen*/
+    padding: 5px;   /*modificando el padding*/
 }
 
-.yellow {
-    background-color: gold;
-    height: 100px;
+.gold {
+    background-color: gold; /*estableciendo el color de fondo*/
 }
 
 .black {
-    background-color: black;
-    height: 100px;
-    color: white;
+    background-color: black; /*estableciendo el color de fondo*/
+    color: white;   /*estableciendo el color del contenido*/
 }
