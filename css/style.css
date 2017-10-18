@@ -1,0 +1,18 @@
+div {
+    width: auto;
+    margin: 10px;
+    padding: 5px;
+    display: block;
+    
+}
+
+.yellow {
+    background-color: gold;
+    height: 100px;
+}
+
+.black {
+    background-color: black;
+    height: 100px;
+    color: white;
+}
